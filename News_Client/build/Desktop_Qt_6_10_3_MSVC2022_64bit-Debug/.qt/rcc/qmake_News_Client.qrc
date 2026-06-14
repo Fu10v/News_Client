@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/News_Client">
+    <file alias="qmldir">C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/News_Client/qmldir</file>
+  </qresource>
+</RCC>
+

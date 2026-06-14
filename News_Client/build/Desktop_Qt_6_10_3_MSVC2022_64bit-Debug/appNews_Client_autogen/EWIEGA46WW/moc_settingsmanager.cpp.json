@@ -1,0 +1,68 @@
+{
+    "classes": [
+        {
+            "className": "SettingsManager",
+            "lineNumber": 9,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "value",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "index": 0,
+                    "lineNumber": 16,
+                    "name": "save",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "defaultValue",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 19,
+                    "name": "load",
+                    "returnType": "QVariant"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "key",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "isCloned": true,
+                    "lineNumber": 19,
+                    "name": "load",
+                    "returnType": "QVariant"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "SettingsManager",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "settingsmanager.h",
+    "outputRevision": 69
+}

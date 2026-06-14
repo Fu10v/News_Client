@@ -1,0 +1,8 @@
+module News_Client
+typeinfo appNews_Client.qmltypes
+prefer :/qt/qml/News_Client/
+Main 254.0 Main.qml
+NewsCard 254.0 NewsCard.qml
+FullArticleView 254.0 FullArticleView.qml
+depends QtQuick
+

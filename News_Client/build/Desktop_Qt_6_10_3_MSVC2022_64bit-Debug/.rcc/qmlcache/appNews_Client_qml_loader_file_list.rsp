@@ -1,0 +1,7 @@
+--resource
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_News_Client.qrc
+--resource
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/.qt/rcc/appNews_Client_raw_qml_0.qrc
+/qt/qml/News_Client/Main.qml
+/qt/qml/News_Client/NewsCard.qml
+/qt/qml/News_Client/FullArticleView.qml

@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a9e7d9dfedc9d51fd928.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "News_Client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-eef219e774a4a426bb9b.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0f97320ac532dd42f29f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1ba72dc756283891184a.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-abc5db711ea2dacdbd2c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-443e47baee4a9f7c3191.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client-Debug-bb747f196d1d7778696b.json",
+					"name" : "appNews_Client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_autogen-Debug-6614c3b9ac899ad3c8c4.json",
+					"name" : "appNews_Client_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_autogen_timestamp_deps-Debug-b6f980e5b00200cf79a3.json",
+					"name" : "appNews_Client_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_copy_qml-Debug-c25f1d30599cf06aa935.json",
+					"name" : "appNews_Client_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_copy_res-Debug-2ea8814814c99a33d9e1.json",
+					"name" : "appNews_Client_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_qmlimportscan-Debug-db34df87addf670b05c5.json",
+					"name" : "appNews_Client_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_qmllint-Debug-f30a945b03de8693a076.json",
+					"name" : "appNews_Client_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_qmllint_json-Debug-17ef6e044a918b812379.json",
+					"name" : "appNews_Client_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_qmllint_module-Debug-ec3a2f07a65fc2f2c00e.json",
+					"name" : "appNews_Client_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appNews_Client_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appNews_Client_qmltyperegistration-Debug-8460e1ddc0ec1e410c72.json",
+					"name" : "appNews_Client_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-9fae6ab63ccd051e59ed.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appNews_Client_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appNews_Client_aotstats_target-Debug-4d2f0d7427dd61d9d074.json",
+					"name" : "module_appNews_Client_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug",
+		"source" : "C:/Projects/Qt/News_Client"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,14 @@
+-I
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug
+-I
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/News_Client
+-I
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug
+-I
+C:/Development_Tools/Qt/6.10.3/msvc2022_64/qml
+--resource
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_News_Client.qrc
+--resource
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/.qt/rcc/appNews_Client_raw_qml_0.qrc
+--module
+News_Client

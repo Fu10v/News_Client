@@ -1,0 +1,4 @@
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/appNews_Client_autogen/include/../EWIEGA46WW/moc_databasemanager.cpp.json
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/appNews_Client_autogen/include/../EWIEGA46WW/moc_networkmanager.cpp.json
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/appNews_Client_autogen/include/../EWIEGA46WW/moc_newsmodel.cpp.json
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/appNews_Client_autogen/include/../EWIEGA46WW/moc_settingsmanager.cpp.json

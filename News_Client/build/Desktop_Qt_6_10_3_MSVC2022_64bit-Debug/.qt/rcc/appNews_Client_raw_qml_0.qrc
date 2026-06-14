@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/News_Client/">
+    <file alias="Main.qml">C:/Projects/Qt/News_Client/Main.qml</file>
+    <file alias="NewsCard.qml">C:/Projects/Qt/News_Client/NewsCard.qml</file>
+    <file alias="FullArticleView.qml">C:/Projects/Qt/News_Client/FullArticleView.qml</file>
+  </qresource>
+</RCC>
+

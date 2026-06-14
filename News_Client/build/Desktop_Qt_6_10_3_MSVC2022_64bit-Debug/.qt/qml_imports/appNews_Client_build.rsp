@@ -1,0 +1,14 @@
+-rootPath
+C:/Projects/Qt/News_Client
+-cmake-output
+-output-file
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/.qt/qml_imports/appNews_Client_build.cmake
+-importPath
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug
+-importPath
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/News_Client
+-importPath
+C:/Development_Tools/Qt/6.10.3/msvc2022_64/qml
+-qrcFiles
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_News_Client.qrc
+C:/Projects/Qt/News_Client/build/Desktop_Qt_6_10_3_MSVC2022_64bit-Debug/.qt/rcc/appNews_Client_raw_qml_0.qrc

@@ -1,0 +1,89 @@
+{
+    "classes": [
+        {
+            "className": "NewsModel",
+            "lineNumber": 20,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 24,
+                    "name": "sourceList",
+                    "notify": "sourceListChanged",
+                    "read": "sourceList",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QStringList",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "NewsModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 53,
+                    "name": "sourceListChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "jsonData",
+                            "type": "QByteArray"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 48,
+                    "name": "parseJson",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "sortIndex",
+                            "type": "int"
+                        },
+                        {
+                            "name": "sourceFilter",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 49,
+                    "name": "applyFilters",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "jsonData",
+                            "type": "QByteArray"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 50,
+                    "name": "appendJson",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "newsmodel.h",
+    "outputRevision": 69
+}
