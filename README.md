@@ -20,7 +20,7 @@ This project was developed as a coursework assignment for the "Cross-Platform Pr
 * **Database:** SQLite
 * **Architecture:** Model-View-Delegate (Qt's adaptation of MVC)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites:
 * Installed **Qt 6** framework (ensure `QtWebView` and `QtQml` modules are included).
